@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "tsc && node out/index.js"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3"
+  },
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^18.11.0"
+  }
+}
